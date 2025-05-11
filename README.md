@@ -31,9 +31,13 @@ A simple automated search bot built using Python and Selenium. It takes user inp
 
 search_bot/
 │
+
 ├── main.py                 # Main script for running the bot
+
 ├── chromedriver-win64/    # ChromeDriver folder (optional if installed globally)
+
 │   └── chromedriver.exe
+
 └── README.md               # Project documentation
 
 ## 📦 Setup Instructions
