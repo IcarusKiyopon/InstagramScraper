@@ -45,22 +45,23 @@ search_bot/
 1. **Clone the repository:**
 
    
-   git clone https://github.com/your-username/search_bot.git
+   git clone [https://github.com/your-username/search_bot.git](https://github.com/IcarusKiyopon/InstagramScraper)
+
    cd search_bot
    
 
-2. **Install dependencies:**
+3. **Install dependencies:**
 
    
    pip install selenium
    
 
-3. **Download ChromeDriver:**
+4. **Download ChromeDriver:**
 
    * [Download here](https://sites.google.com/chromium.org/driver/)
    * Place the `chromedriver.exe` in the `chromedriver-win64` folder, or ensure it's in your system PATH.
 
-4. **Run the bot:**
+5. **Run the bot:**
 
    
    python main.py
