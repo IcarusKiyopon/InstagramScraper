@@ -1,7 +1,7 @@
 
 
 
-A simple automated search bot built using Python and Selenium. It takes user input from the terminal and performs a web search in a Chrome browser.
+I made a simple automated search bot built using Python and Selenium. It takes user input from the terminal and performs a web search in a Chrome browser.
 
 ## Features
 
@@ -13,7 +13,7 @@ A simple automated search bot built using Python and Selenium. It takes user inp
 
 ## Technologies Used
 
-- Python 3.x
+- Python 
 - [Selenium](https://www.selenium.dev/)
 - ChromeDriver
 
@@ -70,7 +70,7 @@ search_bot/
 ## 🙋‍♂️ Author
 
 Made with ❤️ by [Icarus](https://github.com/IcarusKiyopon)
-
+(me)
 ## 📄 License
 
 This project is licensed under the MIT License.
