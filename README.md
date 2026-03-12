@@ -45,7 +45,7 @@ search_bot/
 1. **Clone the repository:**
 
    
-   git clone [https://github.com/your-username/search_bot.git](https://github.com/IcarusKiyopon/InstagramScraper)
+   git clone [https://github.com/IcarusKiyopon/search_bot.git](https://github.com/IcarusKiyopon/InstagramScraper)
 
    cd search_bot
    
